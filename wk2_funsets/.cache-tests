@@ -1,0 +1,122 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/System/Library/Java/Extensions/AppleScriptEngine.jar:/System/Library/Java/Extensions/dns_sd.jar:/System/Library/Java/Extensions/j3daudio.jar:/System/Library/Java/Extensions/j3dcore.jar:/System/Library/Java/Extensions/j3dutils.jar:/System/Library/Java/Extensions/jai_codec.jar:/System/Library/Java/Extensions/jai_core.jar:/System/Library/Java/Extensions/mlibwrapper_jai.jar:/System/Library/Java/Extensions/MRJToolkit.jar:/System/Library/Java/Extensions/QTJava.zip:/System/Library/Java/Extensions/vecmath.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> /Applications/eclipse_Scala/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -deprecation
+7 -> -feature
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+11 items
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$1.class
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$2.class
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$3$$anonfun$4.class
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$3.class
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$5$$anon$1.class
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$5.class
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$6$$anon$2.class
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$6.class
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$TestSets$class.class
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$TestSets.class
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite.class
+binary dependencies:
+4 items
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Applications/eclipse_Scala/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/junit-4.7.jar
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/shirleyyoung/workspace/Scala/scalatest_2.11-2.2.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+1 items
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSets$
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+11 items
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$1
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$2
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$3
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$3$$anonfun$4
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$5
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$5$$anon$1
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$6
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$6$$anon$2
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$TestSets
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$TestSets$class
+used names:
+0 items
+product stamps:
+11 items
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$1.class -> lastModified(1441605185000)
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$2.class -> lastModified(1441605185000)
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$3$$anonfun$4.class -> lastModified(1441605185000)
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$3.class -> lastModified(1441605185000)
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$5$$anon$1.class -> lastModified(1441605185000)
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$5.class -> lastModified(1441605185000)
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$6$$anon$2.class -> lastModified(1441605185000)
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$6.class -> lastModified(1441605185000)
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$TestSets$class.class -> lastModified(1441605185000)
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$TestSets.class -> lastModified(1441605185000)
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/target/scala-2.11/test-classes/funsets/FunSetSuite.class -> lastModified(1441605185000)
+source stamps:
+1 items
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> hash(a5a7f50acdb6f90bcd0f36858533e743af2d2708)
+binary stamps:
+4 items
+/Applications/eclipse_Scala/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1438029022000)
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1410998958000)
+/Users/shirleyyoung/workspace/Scala/junit-4.7.jar -> lastModified(1440652677000)
+/Users/shirleyyoung/workspace/Scala/scalatest_2.11-2.2.4.jar -> lastModified(1440651527000)
+class names:
+4 items
+/Applications/eclipse_Scala/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Function0
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/shirleyyoung/workspace/Scala/junit-4.7.jar -> org.junit.runner.RunWith
+/Users/shirleyyoung/workspace/Scala/scalatest_2.11-2.2.4.jar -> org.scalatest.Alerting
+internal apis:
+1 items
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDOfuGXAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAcTAAFdmFsdWVxAH4AHHhwdAAFdmFsdWV0AChjbGFzc09mW29yZy5zY2FsYXRlc3QuanVuaXQuSlVuaXRSdW5uZXJdc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB1J1bldpdGhzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AC9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4AO3QABWp1bml0c3EAfgA7dAAGcnVubmVyc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ADxzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNmdW5zZXRzLkZ1blNldFN1aXRldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsdAAQc2NhbGEuZGVwcmVjYXRlZHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AU3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AL3NxAH4AUgBwc3EAfgBXc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AMHNxAH4AUgBwc3EAfgBXdXEAfgAQAAAAAHNxAH4AUgBwc3EAfgBXdXEAfgAQAAAAAHNxAH4AUgBwc3EAfgBXdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAA9zcQB+AC10AAhGdW5TdWl0ZXNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AANvcmdzcQB+ADt0AAlzY2FsYXRlc3RxAH4ARHNxAH4ALXQADEZ1blN1aXRlTGlrZXEAfgBrc3EAfgAtdAALRG9jdW1lbnRpbmdxAH4Aa3NxAH4ALXQACEFsZXJ0aW5ncQB+AGtzcQB+AC10AAlOb3RpZnlpbmdxAH4Aa3NxAH4ALXQACUluZm9ybWluZ3EAfgBrc3EAfgAtdAAQVGVzdFJlZ2lzdHJhdGlvbnEAfgBrc3EAfgAtdAAFU3VpdGVxAH4Aa3NxAH4ALXQADFNlcmlhbGl6YWJsZXNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AARqYXZhc3EAfgA7dAACaW9xAH4ARHNxAH4ALXQADUFic3RyYWN0U3VpdGVxAH4Aa3NxAH4ALXQACkFzc2VydGlvbnNxAH4Aa3NxAH4ALXQADFRyaXBsZUVxdWFsc3NxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AANvcmdzcQB+ADt0AAlzY2FsYWN0aWNxAH4ARHNxAH4ALXQAE1RyaXBsZUVxdWFsc1N1cHBvcnRxAH4Aj3NxAH4ALXQABk9iamVjdHNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADtxAH4AhnNxAH4AO3QABGxhbmdxAH4ARHNxAH4ALXQAA0FueXNxAH4AM3NxAH4ANnVxAH4AOQAAAAJzcQB+ADt0AAVzY2FsYXEAfgBEdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAHZnVuc2V0c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT6ZdZ7R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdABTL1VzZXJzL3NoaXJsZXl5b3VuZy93b3Jrc3BhY2UvU2NhbGEvbm90ZS93azJfZnVuc2V0cy90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AEMvVXNlcnMvc2hpcmxleXlvdW5nL3dvcmtzcGFjZS9TY2FsYS9ub3RlL3drMl9mdW5zZXRzL3NyYy90ZXN0L3NjYWxhdXIAAltCrPMX+AYIVOACAAB4cAAAABSlp/UKzbb5C80PNoWFM+dDry0nCA==
+external apis:
+1 items
+funsets.FunSets$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCdZ35IAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAPZnVuc2V0cy5GdW5TZXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgAuAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADVzcQB+AC4BdXEAfgAQAAAAAHBzcQB+AC4BdXEAfgAQAAAAAHBzcQB+AC4BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA0dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBNdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBOc3EAfgBBdAADQW55c3EAfgBFc3EAfgBIdXEAfgBLAAAAAnNxAH4ATXQABXNjYWxhcQB+AFRwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQAB2Z1bnNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU+mWSsvdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQATi9Vc2Vycy9zaGlybGV5eW91bmcvd29ya3NwYWNlL1NjYWxhL25vdGUvd2syX2Z1bnNldHMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAQy9Vc2Vycy9zaGlybGV5eW91bmcvd29ya3NwYWNlL1NjYWxhL25vdGUvd2syX2Z1bnNldHMvc3JjL21haW4vc2NhbGF1cgACW0Ks8xf4BghU4AIAAHhwAAAAFHk0DamFpLA4t3PfxIZPL5uC93/2
+source infos:
+1 items
+/Users/shirleyyoung/workspace/Scala/note/wk2_funsets/src/test/scala/funsets/FunSetSuite.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT6ZdZ7R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9zaGlybGV5eW91bmcvd29ya3NwYWNlL1NjYWxhL25vdGUvd2syX2Z1bnNldHMvdGFyZ2V0L3NjYWxhLTIuMTEvdGVzdC1jbGFzc2VzdABDL1VzZXJzL3NoaXJsZXl5b3VuZy93b3Jrc3BhY2UvU2NhbGEvbm90ZS93azJfZnVuc2V0cy9zcmMvdGVzdC9zY2FsYQ==
