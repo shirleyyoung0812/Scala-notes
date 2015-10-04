@@ -1,3 +1,4 @@
+import wk4.List
 //persistent data structures: when perform changes on the data structure
 //the old version of data structure is still perserved
 //subclass conform to superclass: an object of subclass can be used wherever an object
@@ -5,6 +6,15 @@
 object abstractClasses {
   val t1 = new NonEmptyTree(3, new EmptyTree, new EmptyTree)
   val t2 = t1 incl 4
+  //convariant: List[NonEmptyTree] <: List[IntSet]
+  //since NonEmptyTree <: IntSet
+  //Java array is convariant
+  //but Scala's is not
+  //thus the 2nd line will show type error
+  val a: Array[NonEmptyTree] = Array(new NonEmptyTree(1, new EmptyTree, new EmptyTree))
+  val b: Array[IntSet] = a
+  b(0) = new EmptyTree
+  val s: NonEmptyTree = a(0)
 }
   abstract class IntSet {
     def incl(x: Int): IntSet
@@ -54,4 +64,13 @@ object abstractClasses {
   class Sub extends Base {
     override def foo = 2
     def bar = 3
+  }
+  object test {
+  //List[IntSet]
+  //IntSet > : NonEmptyTree and EmptyTree
+  // prepend[U >: T] (elem: U): List[U] = new Cons(elem, this)
+  //T: NonEmptyTree, elem: instance of the supertype, 
+  //"EmptyTree" is not a supertype of NonEmptyTree
+  //take Supertype of EmptyTree, which is IntSet
+    def f(xs: List[NonEmptyTree], x: EmptyTree) = xs prepend x
   }

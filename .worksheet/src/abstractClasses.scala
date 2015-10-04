@@ -1,10 +1,20 @@
+import wk4.List
 //persistent data structures: when perform changes on the data structure
 //the old version of data structure is still perserved
 //subclass conform to superclass: an object of subclass can be used wherever an object
 //of type superclass is required
-object abstractClasses {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(333); 
+object abstractClasses {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(349); 
   val t1 = new NonEmptyTree(3, new EmptyTree, new EmptyTree);System.out.println("""t1  : NonEmptyTree = """ + $show(t1 ));$skip(21); 
-  val t2 = t1 incl 4;System.out.println("""t2  : IntSet = """ + $show(t2 ))}
+  val t2 = t1 incl 4;System.out.println("""t2  : IntSet = """ + $show(t2 ));$skip(267); 
+  //convariant: List[NonEmptyTree] <: List[IntSet]
+  //since NonEmptyTree <: IntSet
+  //Java array is convariant
+  //but Scala's is not
+  //thus the 2nd line will show type error
+  val a: Array[NonEmptyTree] = Array(new NonEmptyTree(1, new EmptyTree, new EmptyTree));System.out.println("""a  : Array[NonEmptyTree] = """ + $show(a ));$skip(27); 
+  val b: Array[IntSet] = a;System.out.println("""b  : Array[IntSet] = """ + $show(b ));$skip(23); 
+  b(0) = new EmptyTree;$skip(29); 
+  val s: NonEmptyTree = a(0);System.out.println("""s  : NonEmptyTree = """ + $show(s ))}
 }
   abstract class IntSet {
     def incl(x: Int): IntSet
@@ -54,4 +64,13 @@ object abstractClasses {;import org.scalaide.worksheet.runtime.library.Worksheet
   class Sub extends Base {
     override def foo = 2
     def bar = 3
+  }
+  object test {
+  //List[IntSet]
+  //IntSet > : NonEmptyTree and EmptyTree
+  // prepend[U >: T] (elem: U): List[U] = new Cons(elem, this)
+  //T: NonEmptyTree, elem: instance of the supertype,
+  //"EmptyTree" is not a supertype of NonEmptyTree
+  //take Supertype of EmptyTree, which is IntSet
+    def f(xs: List[NonEmptyTree], x: EmptyTree) = xs prepend x
   }
