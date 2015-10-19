@@ -1,0 +1,47 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/shirleyyoung/workspace/Scala/note/src/wk7/Pouring.scala, /Users/shirleyyoung/workspace/Scala/note/src/wk7/pouringTest.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/shirleyyoung/workspace/Scala/note/src/wk7/Pouring.scala, /Users/shirleyyoung/workspace/Scala/note/src/wk7/pouringTest.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/shirleyyoung/workspace/Scala/note/src/wk7/Pouring.scala, /Users/shirleyyoung/workspace/Scala/note/src/wk7/pouringTest.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /Users/shirleyyoung/workspace/Scala/note/src/wk7/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 22cd9f0d, interfacing (CompilerInterface) with Scala compiler version 2.10.5[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/classes:/Users/shirleyyoung/.sbt/boot/scala-2.10.5/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/shirleyyoung/workspace/Scala/note/src/wk7/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.28010125 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/shirleyyoung/workspace/Scala/note/src/wk7/Pouring.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/shirleyyoung/workspace/Scala/note/src/wk7/Pouring.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/shirleyyoung/workspace/Scala/note/src/wk7/Pouring.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/shirleyyoung/workspace/Scala/note/src/wk7/Pouring.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/shirleyyoung/workspace/Scala/note/src/wk7/Pouring.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, curried, wait, copy$default$2, $asInstanceOf, compose, productArity, equals, Path, asInstanceOf, moves, synchronized, trackState, $isInstanceOf, Fill, andThen, tupled, endState, canEqual, productPrefix, notifyAll, readResolve, to, isInstanceOf, initialState, change, <init>, Move, apply, Empty, ==, Pouring, clone, from, copy, toString, !=, getClass, glasses, copy$default$1, State, glass, ne, eq, productIterator, ##, finalize, productElement, hashCode, Pour.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/shirleyyoung/workspace/Scala/note/src/wk7/pouringTest.scala: Set(<init>, apply, Pouring)[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/shirleyyoung/workspace/Scala/note/src/wk7/pouringTest.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/shirleyyoung/workspace/Scala/note/src/wk7/pouringTest.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/shirleyyoung/workspace/Scala/note/src/wk7/pouringTest.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/shirleyyoung/workspace/Scala/note/src/wk7/pouringTest.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/shirleyyoung/workspace/Scala/note/src/wk7/pouringTest.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, pouringTest, problem, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

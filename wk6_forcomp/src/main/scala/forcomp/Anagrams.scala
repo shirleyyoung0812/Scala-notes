@@ -162,7 +162,7 @@ object Anagrams {
       //Set(elem) return a boolean value true if elem exists and false if doesn't
       for (i <- combs if dictionaryByOccurrences.keySet(i);
            j <- dictionaryByOccurrences(i);
-           s <- sentenceAnagramsHelper(subtract(occurrences, i))) yield {j :: s}
+           s <- sentenceAnagramsHelper(subtract(occurrences, i))) yield (j :: s)
     }
   }
 }
